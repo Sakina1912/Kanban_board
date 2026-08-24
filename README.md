@@ -1,3 +1,6 @@
+A responsive Kanban task management board built with React, allowing users to organize, track, and manage tasks through different workflow stages.
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
